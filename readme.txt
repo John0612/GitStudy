@@ -8,4 +8,5 @@ Create a new branch is quick;
 解决冲突
 创建分支解决冲突
 branch manage
+bug 分支
 
