@@ -6,3 +6,5 @@ hello three
 Create a new branch is quick;
 创建一个新的分支
 解决冲突
+创建分支解决冲突
+
